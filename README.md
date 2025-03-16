@@ -62,7 +62,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - Name: Krishna
 - Email: krishnagupta2380@gmail.com
-- GitHub: [@29Krishna](https://github.com/29Krishna/Emerald-Courier-Service-System)
 
 ## License
 
